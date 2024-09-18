@@ -1,3 +1,4 @@
-studentnames = ("sehun", "kyungsoo", "suho", "kai", "xiumin", "chanyeol", "baekhyun", "chen", "lay", "tao", "luhan", "jeo", "zico", "minghyu", "scoups", "vernon", "minghao", "joshua", "jun", "jay")
+studentnames = ["sehun", "kyungsoo", "suho", "kai", "xiumin", "chanyeol", "baekhyun", "chen", "lay", "tao", "luhan", "jeo", "zico", "minghyu", "scoups", "vernon", "minghao", "joshua", "jun", "jay"]
 
-print(studentnames[14])
+studentnames[9]
+print(studentnames)
